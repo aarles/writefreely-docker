@@ -8,7 +8,7 @@ To get started, the easiest way to test it out is running the following command:
 
 ```bash
 docker run -p 8080:8080 -it --rm -v /some/path/to/data:/data \
-       jrasanen/writefreely
+       aarles/writefreely
 ```
 
 Then point your browser to http://localhost:8080, and you should see WriteFreely up and running.
