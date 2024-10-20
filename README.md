@@ -69,7 +69,7 @@ You can use Docker Compose to set up WriteFreely with different database configu
 First, clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/writefreely-docker.git
+git clone https://github.com/aarles/writefreely-docker.git
 cd writefreely-docker
 ```
 
